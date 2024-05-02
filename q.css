@@ -214,7 +214,7 @@ a:hover {
 }
 .w{
     position: relative;
-    left : 50%;
+    left : 20%;
 }
 span{
     color: yellow;
@@ -539,6 +539,16 @@ span{
   margin: 20px 0;
   color: #ffffff;
   top: 90%;
+  left: 5%;
+  width: 111% ;
+}
+.score{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0;
+  color: #ffffff;
+  top: 10%;
   left: 5%;
   width: 111% ;
 }
